@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, I'm Anıl
+#### A Software & Front-End Developer 
 
-<!--
-**ZAC-9/ZAC-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML / CSS
+
+- 🔭 I’m currently studying in Anadolu University - Management Information Systems 
+- 🌱 I’m currently learning Front-End / HTML-CSS also JS soon 
+
+Connect with me : 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZAC-9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](.zac99)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZAC-9)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZAC-9)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZAC-9&show_icons=true)  
+
