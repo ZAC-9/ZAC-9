@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Anıl
 #### A Software & Front-End Developer 
 
-Student 
-
+Student
 
 Skills: HTML / CSS
 
